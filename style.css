@@ -15,3 +15,22 @@
   height: 20px;
   background: #eb4d4b;
 }
+
+#controls {
+  width: 173px;
+  margin: 0 auto;
+}
+
+#controls button {
+  border: none;
+  padding: 10px 15px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  border-radius: 6px;
+}
+#controls button.punch {
+  background: #eb4d4b;
+}
+#controls button.restart {
+  background: #10ac84;
+}
